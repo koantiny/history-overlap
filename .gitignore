@@ -1,0 +1,8 @@
+# Editor / OS
+.DS_Store
+*.log
+.vscode/
+.idea/
+
+# Local project notes (optional private)
+PROJECT.md
